@@ -1,5 +1,10 @@
 .venv
 venv
-git add.
+
 .idea
+
 weather.xlsx
+
+.env
+
+__pycache__
